@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Place_d_armes" size="0.135000 0.134250" />
+    <ImageTarget name="Sur_la_Place_d_armes" size="0.135000 0.092314" />
+    <ImageTarget name="place_de_metz" size="0.050000 0.033837" />
+    <ImageTarget name="Palais_grand_ducal" size="0.013500 0.010259" />
+    <ImageTarget name="myself" size="0.800000 0.498298" />
+    <ImageTarget name="postcard2" size="0.068000 0.047516" />
+    <ImageTarget name="postcard1" size="0.068000 0.047318" />
+    <ImageTarget name="world-war-ii-special-512-3" size="50.000000 50.000000" />
+    <ImageTarget name="german_paratroops_eben_emael_1940" size="0.052000 0.033176" />
+    <ImageTarget name="140828132531-01-world-war-ii-0828-horizontal-large-gallery" size="0.102000 0.057453" />
+    <ImageTarget name="logitech_box" size="0.300000 0.319444" />
+    <ImageTarget name="planetary_report" size="0.210000 0.279781" />
+  </Tracking>
+</QCARConfig>
